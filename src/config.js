@@ -10,7 +10,7 @@ const dev = {
   
 const prod = {
 	baseURL: '/api/',
-	landingPageUrl: "https://app.openaitemplate.com",
+	landingPageUrl: "https://deepforestai.netlify.app",
 	stripe: {
 		free: "price_1JcQsUHIZYvvnKlaEPy958NF",
 		entry: "price_1JLpWpHIZYvvnKlaHxiCr7Js",
